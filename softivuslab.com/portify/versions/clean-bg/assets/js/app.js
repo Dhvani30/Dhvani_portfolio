@@ -27305,7 +27305,7 @@ if (savedDir) {
 // typewritter effect on hero
 if (document.getElementById("typewriter")) {
   new (core_default())("#typewriter", {
-    strings: ["Developer", "Designer"],
+    strings: ["Developer", "Tech Enthusiast", "UI/UX Explorer"],
     autoStart: true,
     loop: true,
     delay: 200,
